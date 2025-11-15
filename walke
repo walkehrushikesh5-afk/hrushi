@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-int a=667;
+int a=67;
 cout<<a<<"is the value of a";
   return o;
 }
